@@ -69,7 +69,7 @@ const Navbar = () => {
             <li key={index} className="nav-item">
               <a className="nav-link" href={ele.link} target="blank">
                 <img className="social-icon" src={`images/${ele.icon}`} />
-              </a>}
+              </a>
             </li>
           ))}
         </ul>
