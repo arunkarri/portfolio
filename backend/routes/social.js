@@ -7,12 +7,12 @@ router.get('/', function (req, res, next) {
     {
       name: 'Linkedin',
       link: 'https://www.linkedin.com/in/arun-kashyap-42a4767a/',
-      icon: 'http://localhost:3001/images/linkedin.png',
+      icon: 'linkedin.png',
     },
     {
       name: 'Github',
       link: 'https://github.com/arunkarri',
-      icon: 'http://localhost:3001/images/github.png',
+      icon: 'github.png',
     },
   ];
   res.json(response);
