@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(to right, #16222a 0%, #3a6073 100%);
+  color: white;
+}
+.nav-link {
+  cursor: pointer;
+}
+.social-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.social-dropdown {
+  width: 240px;
+  padding: 14px;
+}
+.spinner-border{
+  position: absolute;
+  top: 45%;
+  left: 50%;
+}

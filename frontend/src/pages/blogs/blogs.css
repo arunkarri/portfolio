@@ -1,0 +1,10 @@
+.blog-img{
+    height: 250px;
+    border-radius: 30px;
+}
+.blog-card{
+    border-radius: 30px;
+}
+.bg-blog {
+    background-color: #37447C!important;
+}

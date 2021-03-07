@@ -1,0 +1,14 @@
+.git-img {
+  height: 200px;
+  border-radius: 30px;
+}
+.blog-card {
+  border-radius: 30px;
+}
+.bg-project {
+  background-color: #98C6FA !important;
+}
+
+.text-cyan {
+  color: #66FCF1 !important;
+}
