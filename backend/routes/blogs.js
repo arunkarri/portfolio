@@ -34,9 +34,6 @@ router.get('/', async function (req, res, next) {
     },
     {
       link: 'https://kashyap1049.medium.com/what-happens-when-we-type-a-url-in-the-address-bar-b6e88f7996cd',
-    },
-    {
-      link: 'https://github.com/arunkarri/beer-punk'
     }
   ];
   for await (const contents of links.map(async (data, index) => {
