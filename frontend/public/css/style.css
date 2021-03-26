@@ -19,3 +19,6 @@ body {
   top: 45%;
   left: 50%;
 }
+.filter-badge{
+  cursor: pointer;
+}

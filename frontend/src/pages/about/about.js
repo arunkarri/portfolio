@@ -40,10 +40,7 @@ const About = () => (
                 <div>
                   <b>About Me</b>
                   <small>
-                    <p>
-                      Focused and skillful Frontend developer. Played a successful role as the lead in a couple of projects. Developed and simplified numerous applications, standardized various processes and saved thousands of hours through my work.
-                      Trained and helped developers on AngularJS, Javascript, RPA and Chatbots. A firm believer in building various competencies- to get exposure and increase networking- along with work.
-                    </p>
+                    <p>Focused and skillful MERN Stack Developer. With my work as a lead developer and mentor, I have helped deliver numerous projects for our clients. An enthusiast in constant pursuit of learning new technologies</p>
                   </small>
                 </div>
               </div>
@@ -66,14 +63,15 @@ const About = () => (
                 <div>
                   <small>
                     <ul>
-                      <li>Won React.js Hackathon event - Reached Super 6 out of 150 teams, and then won the first prize out of the 6 teams - by embedding maximum functionalities in the solution within a span of 3 days. </li>
-                      <li>Stood 3rd in DevOps Cup out of 50 teams. Played a key role in the contribution by fixing 100's of source code issues, making the application secure</li>
+                      <li>Published an npm package in react, which has around 1000 downloads </li>
+                      <li>Actively developed many open source projects in React, Node, Mongo, Javascript and Bootstrap.</li>
+                      <li>Certified in MERN stack and Javascript technologies.</li>
+                      <li>Won the Best Blogger Award at DLT Labs for 2019-20</li>
+                      <li>Stood first in React Hackathon event, at Verizon, out of 150 teams</li>
+                      <li>Published 10+ blogs to help the developer community.</li>
+                      <li>Stood 3rd in DevOps Cup out of 50 teams. Played a key role in the contribution by fixing 100's of source code issues, making the application secure.</li>
                       <li>Received spot award for leading entire development effort and delivering Vendor Analytics Project to Sourcing Team.</li>
-                      <li>Received spot award for building a web portal for users, bringing down the manual effort of IT team by saving 1000 hours and enabling 2200 users to Access Review Automation Portal.</li>
-                      <li>Developed reusable components and helped the team to plug those in their applications.</li>
-                      <li>Worked on many POCs and enabled the team to use different technologies.</li>
-                      <li>Saved 640 hours per year by automating 3 different manual intensive processes. Improved Performance of an application by minifying the code, fixing library issues such as Black Duck</li>
-                      <li>Conducted brown bag sessions to the team on Javascript.</li>
+                      <li>Received spot award for building a web portal for users, bringing down the manual effort of the IT team by saving 1000 hours and enabling 2200 users to Access Review Automation Portal.</li>
                     </ul>
                   </small>
                 </div>

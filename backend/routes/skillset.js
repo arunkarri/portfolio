@@ -12,6 +12,7 @@ router.get('/', function (req, res, next) {
         { technology: 'Javascript', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWITl81P_IpGP6I5M_6um_sLIeXgbdoXjrkw&usqp=CAU' },
         { technology: 'HTML', logo: 'https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png' },
         { technology: 'CSS', logo: 'https://i.pinimg.com/originals/3c/2a/ad/3c2aadf4b1aeffa2bc631eb2037a2496.jpg' },
+        { technology: 'Bootstrap', logo: 'https://img.icons8.com/color/452/bootstrap.png' },
       ],
     },
     {
